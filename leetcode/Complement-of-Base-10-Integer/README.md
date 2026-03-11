@@ -2,11 +2,10 @@
 
 - **Platform:** leetcode
 - **Language:** python3
-- **Difficulty:** Easy
-- **Submission ID:** 1944926585
+- **Submission ID:** 1944951275
 
 ## Solution Code
 
 ```py
-// Solution code not captured by API sync.
+// Solution code captured in real-time by extension.
 ```
