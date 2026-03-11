@@ -2,7 +2,7 @@
 
 - **Platform:** leetcode
 - **Language:** python3
-- **Difficulty:** Unknown
+- **Difficulty:** Easy
 - **Submission ID:** 1921128520
 
 ## Solution Code
