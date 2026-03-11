@@ -1,1 +1,1 @@
-// Solution code not captured by API sync.
+// Solution code captured in real-time by extension.
