@@ -2,10 +2,19 @@
 
 - **Platform:** leetcode
 - **Language:** python3
-- **Submission ID:** 1944951275
+- **Submission ID:** 1944926585
 
 ## Solution Code
 
 ```py
-// Solution code captured in real-time by extension.
+class Solution:
+    def bitwiseComplement(self, n: int) -> int:
+        if n == 0:
+            return 1
+        
+        mask = 1
+        while mask <= n:
+            mask <<= 1
+        
+        return (mask - 1) ^ n
 ```
